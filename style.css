@@ -100,3 +100,12 @@ body
 .weather{
   display: none;
 }
+.eror
+{
+  text-align: left;
+  margin-left:10px;
+  font-size: 14px;
+  margin-top: 10px;
+  display: none;
+
+}
